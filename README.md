@@ -23,7 +23,7 @@ Define the function schema for LLM Function Calling using JSON Schema.
 #### STEP 4:
 Send the user's query to the Chat Completion API and allow the LLM to invoke the function.
 
-####STEP 5:
+#### STEP 5:
 Execute the function and display the calculated speed as the final response.
 
 
